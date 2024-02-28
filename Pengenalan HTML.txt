@@ -1,0 +1,36 @@
+                    PENGENALAN HTML
+
+1. Apa Itu HTML -> 
+Hypertext Markup Language, HTML merupakan salah satu bahasa markup yang digunakan untuk membuat halaman website yang ditampilkan pada web browser.Sebagian besar halaman yang kamu temukan pada internet kebnayakan mengunakan Bahasa HTML.
+
+Adapun Bahasa Markup Lain Selain HTML yaitu
+1.XML
+2.SGML
+3.XHTML
+4.KML
+5.MathML
+
+2. Sejarah Singkat HTML -> 
+HTML diciptakan oleh Sir Tim Berners-lee pada akhir tahun 1991 namun tidak rilis secara resmi. akhrinya pada tahun 1993 HTML pun resmi dirilis versi pertamanya dengan tujuan untuk berbagi informasi yang dapat dibaca dan diakses melalui web browser. 
+
+
+3.Kegunaan utama HTML adalah untuk mendefinisikan struktur dan konten dari sebuah halaman web. Berikut adalah beberapa kegunaan HTML
+ # Sebagai Struktur Dasar Halaman web
+ # Menampilkan Teks Gambar atau konten
+ # tautan antar halaman
+ # dan lain lain
+
+4. Struktur Dasar Dari HTML
+    # <!DOCTYPE html> : Ini adalah deklarasi yang menunjukkan kepada browser bahwa halaman menggunakan versi HTML terbaru.
+    
+    # <html> : Ini adalah elemen utama yang menandai awal dan akhir dari dokumen HTML.
+
+    # <head> : ini adalah elemen yang berisi informasi tambahan tentang halaman, seperti judul, link ke CSS atau link sebuah library atau framework,  meta tag, dan lain lain.
+
+    # <title> : ini adalah elemen yang menetukan judul halaman web yang akana ditampilkan di tab judul browser 
+
+    # <body> : ini adalah elemen yang berisi semua konten yang akan ditampilkan
+
+ELEMEN YANG ADA DIDALAM KONTEN 
+
+
