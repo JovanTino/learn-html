@@ -12,7 +12,7 @@ Adapun Bahasa Markup Lain Selain HTML yaitu
 HTML diciptakan oleh Sir TIm Berners-lee pada akhir tahun 1991 namun tidak rilis secara resmi. akhrinya pada tahun 1993 HTML pun resmi dirilis versi pertamanya dengan tujuan untuk berbagi informasi yang dapat dibaca dan diakses melalui web browser. 
 
 
-
++
 
 
 <!-- Penjelasan Lanjutan Tentang tag <meta> -->
