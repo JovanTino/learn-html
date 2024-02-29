@@ -1,0 +1,82 @@
+1. Apa Itu HTML -> 
+Hypertext Markup Language, HTML merupakan salah satu bahasa markup yang digunakan untuk membuat halaman website yang ditampilkan pada web browser.Sebagian besar halaman yang kamu temukan pada internet kebnayakan mengunakan Bahasa HTML.
+
+Adapun Bahasa Markup Lain Selain HTML yaitu
+1.XML
+2.SGML
+3.XHTML
+4.KML
+5.MathML
+
+2. Sejarah Singkat HTML -> 
+HTML diciptakan oleh Sir TIm Berners-lee pada akhir tahun 1991 namun tidak rilis secara resmi. akhrinya pada tahun 1993 HTML pun resmi dirilis versi pertamanya dengan tujuan untuk berbagi informasi yang dapat dibaca dan diakses melalui web browser. 
+
+
++
+
+
+<!-- Penjelasan Lanjutan Tentang tag <meta> -->
+<!-- 
+Tag <meta> memiliki beberapa atribut yang digunakan untuk memberikan informasi tambahan tentang dokumen HTML atau untuk mengontrol perilaku browser. Berikut adalah beberapa atribut yang sering digunakan:
+
+1. charset: Menentukan set karakter yang digunakan dalam dokumen HTML.
+
+2. content: Memberikan nilai atau isi untuk atribut name.
+
+3. http-equiv: Memberikan informasi tambahan kepada browser tentang cara menangani halaman, seperti pengalihan atau pembaruan otomatis.
+
+4. name: Memberikan informasi tertentu tentang halaman web, seperti deskripsi, kata kunci, atau penulis.
+
+5. scheme: Mendefinisikan skema yang digunakan untuk menginterpretasikan nilai konten.
+
+6. viewport: Mengontrol tampilan halaman web di perangkat mobile dengan menentukan skala, lebar, dan fitur tampilan lainnya.
+
+7. property: Menentukan properti metadata tambahan yang berkaitan dengan dokumen, terutama dalam konteks RDFa atau Open Graph Protocol.
+-->
+
+<!-- meta adalah elemen atau tag pada html yang berfungsi sebagai pemberi informasi metadata dari sebuah halaman web -->
+
+
+
+<!-- Penjelasan Mengenai Elemen, Atribut, Dan Tag Pada HTML -->
+<!-- Elemen
+Elemen adalah komponen yang menyusun dokumen HTML. Elemen adalah blok penyusun dasar dokumen HTML. Elemen HTML berisi tag awal, konten, dan tag penutup. -->
+
+<!-- Atribut
+Atribut adalah modifier untuk menentukan perilaku elemen. Atribut memberikan informasi atau instruksi tambahan untuk suatu elemen. Atribut HTML selalu ditentukan di tag awal dan biasanya berupa pasangan nama atau nilai seperti: nama="value". -->
+
+<!-- Tag -->
+<!-- Tag adalah penanda untuk memulai dan mengakhiri elemen. Tag HTML adalah kode yang digunakan untuk membuka dan menutup elemen. Tag HTML biasanya ada berpasangan yang terdiri dari tag awal dan tag akhir -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Note 
+1.Bahasa markup (markup language) adalah seperangkat aturan yang menentukan tata letak dan presentasi teks dan gambar dalam dokumen digital. Bahasa markup digunakan untuk menata dokumen, menambah format, atau menentukan tampilan elemen-elemen pada halaman web.
+
+
+"
